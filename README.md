@@ -2,6 +2,10 @@
 
 Community-maintained registry of plugins for [@barrersoftware/copilot-plugins](https://www.npmjs.com/package/@barrersoftware/copilot-plugins).
 
+**📦 Plugin System:** https://github.com/barrersoftware/copilot-plugin-system-js  
+**📚 npm Package:** https://www.npmjs.com/package/@barrersoftware/copilot-plugins  
+**🐙 Registry:** https://github.com/barrersoftware/copilot-plugins-registry (you are here)
+
 ## Usage
 
 Install plugins directly from your Copilot CLI session:
