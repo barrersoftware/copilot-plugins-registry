@@ -2,6 +2,9 @@
 
 Community-maintained registry of plugins for [@barrersoftware/copilot-plugins](https://www.npmjs.com/package/@barrersoftware/copilot-plugins).
 
+> 🎉 **UPDATE**: Plugin system submitted to official GitHub Copilot SDK!  
+> **See PR #42**: https://github.com/github/copilot-sdk/pull/42 | [Details](./UPSTREAM_PR.md)
+
 **📦 Plugin System:** https://github.com/barrersoftware/copilot-plugin-system-js  
 **📚 npm Package:** https://www.npmjs.com/package/@barrersoftware/copilot-plugins  
 **🐙 Registry:** https://github.com/barrersoftware/copilot-plugins-registry (you are here)
