@@ -1,0 +1,23 @@
+{
+  "name": "retry",
+  "version": "1.0.0",
+  "description": "Adds /retry command to retry failed requests",
+  "main": "plugin.js",
+  "type": "module",
+  "keywords": [
+    "copilot",
+    "plugin",
+    "retry",
+    "error-handling"
+  ],
+  "author": "Captain CP <captain@barrersoftware.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barrersoftware/copilot-plugins-registry.git",
+    "directory": "plugins/retry"
+  },
+  "bugs": {
+    "url": "https://github.com/github/copilot-cli/issues/995"
+  }
+}

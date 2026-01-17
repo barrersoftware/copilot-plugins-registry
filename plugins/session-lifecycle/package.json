@@ -1,0 +1,24 @@
+{
+  "name": "session-lifecycle",
+  "version": "1.0.0",
+  "description": "Proper session start/end tracking (not per-prompt)",
+  "main": "plugin.js",
+  "type": "module",
+  "keywords": [
+    "copilot",
+    "plugin",
+    "session",
+    "lifecycle",
+    "tracking"
+  ],
+  "author": "Captain CP <captain@barrersoftware.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/barrersoftware/copilot-plugins-registry.git",
+    "directory": "plugins/session-lifecycle"
+  },
+  "bugs": {
+    "url": "https://github.com/github/copilot-cli/issues/991"
+  }
+}
